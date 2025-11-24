@@ -1,0 +1,702 @@
+[
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Air M2",
+    "price": 1199,
+    "ram": 8,
+    "ports": "Thunderbolt, MagSafe, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "XPS 13 Plus",
+    "price": 1450,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-C"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "price": 1800,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ROG Zephyrus G14",
+    "price": 1650,
+    "ram": 32,
+    "ports": "HDMI, USB-C, USB-A, Audio-Jack, SD-Card"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Spectre x360",
+    "price": 1300,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-A, Audio-Jack, MicroSD"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16",
+    "price": 2499,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, MagSafe, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Swift 5",
+    "price": 999,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Raider GE76",
+    "price": 2800,
+    "ram": 64,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, Audio-Jack, SD-Card"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Blade 15",
+    "price": 2200,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "Legion 5 Pro",
+    "price": 1400,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Latitude 7420",
+    "price": 1150,
+    "ram": 8,
+    "ports": "HDMI, Thunderbolt, USB-A, SmartCard, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ZenBook Duo",
+    "price": 1599,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Omen 16",
+    "price": 1250,
+    "ram": 16,
+    "ports": "HDMI, Mini-DisplayPort, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 13 M2",
+    "price": 1299,
+    "ram": 8,
+    "ports": "Thunderbolt, Audio-Jack"
+  },
+  {
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop 5",
+    "price": 1100,
+    "ram": 8,
+    "ports": "Surface-Connect, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "Galaxy Book3 Pro",
+    "price": 1450,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "LG",
+    "model": "Gram 17",
+    "price": 1600,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad T14s",
+    "price": 1350,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Ethernet"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Alienware x15",
+    "price": 2900,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "Vivobook Pro 15",
+    "price": 1050,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Predator Helios 300",
+    "price": 1500,
+    "ram": 16,
+    "ports": "HDMI, Mini-DisplayPort, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Pavilion 15",
+    "price": 750,
+    "ram": 8,
+    "ports": "HDMI, USB-C, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Air M1",
+    "price": 999,
+    "ram": 8,
+    "ports": "Thunderbolt, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "IdeaPad 5",
+    "price": 650,
+    "ram": 8,
+    "ports": "HDMI, USB-C, USB-A, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Inspiron 16",
+    "price": 850,
+    "ram": 12,
+    "ports": "HDMI, USB-C, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "TUF Gaming F15",
+    "price": 1100,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Stealth 15M",
+    "price": 1400,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Blade 14",
+    "price": 1999,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Gigabyte",
+    "model": "Aero 16",
+    "price": 2100,
+    "ram": 32,
+    "ports": "Thunderbolt, USB-C, Audio-Jack"
+  },
+  {
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 9",
+    "price": 1200,
+    "ram": 16,
+    "ports": "Surface-Connect, Thunderbolt"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkBook 14",
+    "price": 900,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A, Ethernet, SD-Card"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Envy 13",
+    "price": 1000,
+    "ram": 8,
+    "ports": "Thunderbolt, USB-A, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "G15 Gaming",
+    "price": 1050,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Nitro 5",
+    "price": 899,
+    "ram": 8,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ZenBook 14 Flip",
+    "price": 1250,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14 M2 Max",
+    "price": 3099,
+    "ram": 64,
+    "ports": "HDMI, Thunderbolt, MagSafe, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "Galaxy Book3 Ultra",
+    "price": 2400,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "Yoga 9i",
+    "price": 1700,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Framework",
+    "model": "Laptop 13 DIY",
+    "price": 1100,
+    "ram": 16,
+    "ports": "USB-C, HDMI, USB-A, Expansion-Card"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Creator Z16",
+    "price": 2500,
+    "ram": 32,
+    "ports": "Mini-DisplayPort, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Precision 5570",
+    "price": 2700,
+    "ram": 32,
+    "ports": "Thunderbolt, USB-C, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "EliteBook 840 G9",
+    "price": 1600,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, SmartCard"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Extreme",
+    "price": 2900,
+    "ram": 64,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ExpertBook B9",
+    "price": 1800,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroHDMI, Ethernet"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Aspire 5",
+    "price": 600,
+    "ram": 8,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Blade 17",
+    "price": 3200,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, Ethernet, SD-Card"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Air M2 15-inch",
+    "price": 1299,
+    "ram": 8,
+    "ports": "Thunderbolt, MagSafe, Audio-Jack"
+  },
+  {
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop Studio",
+    "price": 1600,
+    "ram": 16,
+    "ports": "Surface-Connect, Thunderbolt, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "XPS 15",
+    "price": 2100,
+    "ram": 32,
+    "ports": "Thunderbolt, USB-C, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Victus 15",
+    "price": 850,
+    "ram": 8,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "Legion Slim 7i",
+    "price": 1750,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ROG Strix Scar 18",
+    "price": 3400,
+    "ram": 64,
+    "ports": "HDMI, Ethernet, Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Modern 14",
+    "price": 650,
+    "ram": 8,
+    "ports": "HDMI, USB-C, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Gigabyte",
+    "model": "G5",
+    "price": 950,
+    "ram": 16,
+    "ports": "HDMI, Mini-DisplayPort, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14 M3",
+    "price": 1599,
+    "ram": 8,
+    "ports": "HDMI, Thunderbolt, MagSafe, SD-Card"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Latitude 5530",
+    "price": 1250,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Ethernet, MicroSD"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Swift Go 14",
+    "price": 850,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Dragonfly G4",
+    "price": 1900,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Nano-SIM"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad Z13",
+    "price": 1450,
+    "ram": 16,
+    "ports": "USB-C, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ProArt Studiobook",
+    "price": 2600,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, Ethernet, SD-Express"
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "Galaxy Book2 Pro 360",
+    "price": 1300,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-C, MicroSD"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Blade 16",
+    "price": 2700,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Huawei",
+    "model": "MateBook X Pro",
+    "price": 1800,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-C, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "XPS 17",
+    "price": 2500,
+    "ram": 32,
+    "ports": "Thunderbolt, SD-Card, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "IdeaPad Gaming 3",
+    "price": 800,
+    "ram": 8,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "ProBook 450 G9",
+    "price": 950,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "VivoBook S15",
+    "price": 900,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Katana GF66",
+    "price": 1100,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Enduro Urban N3",
+    "price": 700,
+    "ram": 8,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card, Ethernet"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 13 M1",
+    "price": 1100,
+    "ram": 16,
+    "ports": "Thunderbolt, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Vostro 5620",
+    "price": 850,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad P1 Gen 5",
+    "price": 2300,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Chromebook x360",
+    "price": 450,
+    "ram": 4,
+    "ports": "USB-C, USB-A, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "Chromebook Flip",
+    "price": 550,
+    "ram": 8,
+    "ports": "USB-C, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Microsoft",
+    "model": "Surface Go 3",
+    "price": 600,
+    "ram": 8,
+    "ports": "Surface-Connect, USB-C, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "LG",
+    "model": "Gram 14",
+    "price": 1200,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Book 13",
+    "price": 1400,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Summit E13 Flip",
+    "price": 1600,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-C, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "Yoga Slim 7 Carbon",
+    "price": 1300,
+    "ram": 16,
+    "ports": "USB-C, Audio-Jack"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Inspiron 14 Plus",
+    "price": 1000,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Envy x360 15",
+    "price": 950,
+    "ram": 12,
+    "ports": "HDMI, USB-C, USB-A, SD-Card"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Predator Triton 500",
+    "price": 2100,
+    "ram": 32,
+    "ports": "HDMI, Mini-DisplayPort, Ethernet, Thunderbolt, USB-A"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ROG Flow X13",
+    "price": 1500,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A, XG-Mobile-Port"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Air M2",
+    "price": 1399,
+    "ram": 16,
+    "ports": "Thunderbolt, MagSafe, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad L15",
+    "price": 850,
+    "ram": 8,
+    "ports": "HDMI, USB-C, USB-A, Ethernet, MicroSD"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Alienware m15 R7",
+    "price": 1900,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, Thunderbolt, USB-A"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Pavilion Aero 13",
+    "price": 780,
+    "ram": 16,
+    "ports": "HDMI, USB-C, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Samsung",
+    "model": "Galaxy Chromebook 2",
+    "price": 600,
+    "ram": 8,
+    "ports": "USB-C, MicroSD, Audio-Jack"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "TUF Dash F15",
+    "price": 1200,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, Thunderbolt, USB-A"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "TravelMate P6",
+    "price": 1100,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, Ethernet, MicroSD"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "Legion 7i",
+    "price": 2400,
+    "ram": 32,
+    "ports": "HDMI, Ethernet, Thunderbolt, USB-A, USB-C"
+  },
+  {
+    "manufacturer": "MSI",
+    "model": "Pulse GL66",
+    "price": 1300,
+    "ram": 16,
+    "ports": "HDMI, Ethernet, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Dell",
+    "model": "Precision 3571",
+    "price": 1600,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, Ethernet, MicroSD"
+  },
+  {
+    "manufacturer": "HP",
+    "model": "Omen 17",
+    "price": 1800,
+    "ram": 32,
+    "ports": "HDMI, Mini-DisplayPort, Thunderbolt, Ethernet, USB-A"
+  },
+  {
+    "manufacturer": "Asus",
+    "model": "ZenBook Pro 14 Duo",
+    "price": 2200,
+    "ram": 32,
+    "ports": "HDMI, Thunderbolt, USB-A, SD-Express"
+  },
+  {
+    "manufacturer": "Razer",
+    "model": "Blade Stealth 13",
+    "price": 1600,
+    "ram": 16,
+    "ports": "Thunderbolt, USB-A, Audio-Jack"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Nano",
+    "price": 1500,
+    "ram": 16,
+    "ports": "Thunderbolt, Audio-Jack"
+  },
+  {
+    "manufacturer": "Acer",
+    "model": "Spin 5",
+    "price": 1050,
+    "ram": 16,
+    "ports": "HDMI, Thunderbolt, USB-A, MicroSD"
+  },
+  {
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop Go 2",
+    "price": 750,
+    "ram": 8,
+    "ports": "Surface-Connect, USB-C, USB-A"
+  },
+  {
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16 M1 Max",
+    "price": 3200,
+    "ram": 64,
+    "ports": "HDMI, Thunderbolt, MagSafe, SD-Card, Audio-Jack"
+  }
+]
