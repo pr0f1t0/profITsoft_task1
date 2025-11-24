@@ -10,10 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.concurrent.*;
 import java.util.concurrent.atomic.LongAdder;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -28,15 +25,24 @@ public class ParseFromJson {
         Path directory = Paths.get(path);
         ConcurrentMap<String, LongAdder> map = new ConcurrentHashMap<>();
 
+        Semaphore ioPermits = new Semaphore(64);
+
         try (ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor();
-             Stream<Path> fileStream = Files.list(directory)){
+             Stream<Path> fileStream = Files.list(directory)) {
 
             fileStream
                     .filter(Files::isRegularFile)
-                    .forEach(file -> executor.submit(() -> processFile(file, attribute, map)));
-
-        }
-        catch (IOException e) {
+                    .forEach(file -> executor.submit(() -> {
+                        try {
+                            ioPermits.acquire();
+                            processFile(file, attribute, map);
+                        } catch (InterruptedException e) {
+                            Thread.currentThread().interrupt();
+                        } finally {
+                            ioPermits.release();
+                        }
+                    }));
+        } catch (IOException e) {
             System.err.println("Error opening the directory: " + e.getMessage());
         }
 

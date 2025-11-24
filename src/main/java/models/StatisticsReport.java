@@ -8,5 +8,5 @@ import java.util.List;
 public record StatisticsReport(
         @JacksonXmlElementWrapper(useWrapping = false)
         @JacksonXmlProperty(localName = "item")
-        List<StatisticItem> items
+        List<StatisticsItem> items
 ) {}
